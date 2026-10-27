@@ -1,0 +1,12 @@
+FIGURE NUMBER CROSSWALK - journal package dated 26 October 2026
+
+This package numbers main figures in first-citation order. Original scientific code and historical result filenames are unchanged. The mapping below connects new manuscript numbers to original figure-generation assets. No figure pixels or numerical values were changed.
+
+New Figure 1: Figure1_framework.pdf <- original Figure1_framework.pdf
+New Figure 2: Figure2_data_atlas.pdf <- original Figure2_data_atlas.pdf
+New Figure 3: Figure3_primary_benchmark.pdf <- original Figure3_primary_benchmark.pdf
+New Figure 4: Figure4_known_truth_simulation.pdf <- original Figure4_known_truth_simulation.pdf
+New Figure 5: Figure5_coupling_diagnostics.pdf <- original Figure5_coupling_diagnostics.pdf
+New Figure 6: Figure6_representation.pdf <- original Figure7_representation.pdf
+New Figure 7: Figure7_robustness.pdf <- original Figure8_robustness.pdf
+New Figure 8: Figure8_external_severity.pdf <- original Figure6_external_severity.pdf

@@ -1,0 +1,417 @@
+context,group,module,value
+Exercise training,Paired change,endothelial_activation,-2.0599915483405371
+Exercise training,Paired change,endothelial_activation,-0.47127259184096831
+Exercise training,Paired change,endothelial_activation,-0.28914314077170777
+Exercise training,Paired change,endothelial_activation,0.018733084946516501
+Exercise training,Paired change,endothelial_activation,1.0606938167100819
+Exercise training,Paired change,smooth_muscle_contractile,-0.50426394628570614
+Exercise training,Paired change,smooth_muscle_contractile,-0.36600264362510548
+Exercise training,Paired change,smooth_muscle_contractile,0.4813444982841531
+Exercise training,Paired change,smooth_muscle_contractile,0.77628294968077816
+Exercise training,Paired change,smooth_muscle_contractile,1.5800917001384871
+Exercise training,Paired change,inflammation,-2.7929532675646658
+Exercise training,Paired change,inflammation,-0.67802187609660858
+Exercise training,Paired change,inflammation,0.0255121232093935
+Exercise training,Paired change,inflammation,0.080553066522268096
+Exercise training,Paired change,inflammation,0.4517782496515253
+Exercise training,Paired change,extracellular_matrix,0.2858093930671185
+Exercise training,Paired change,extracellular_matrix,0.8292205901395483
+Exercise training,Paired change,extracellular_matrix,1.0649379895091682
+Exercise training,Paired change,extracellular_matrix,1.5999301471171368
+Exercise training,Paired change,extracellular_matrix,2.2336801606529546
+Exercise training,Paired change,coagulation_thrombosis,-3.1484646525142592
+Exercise training,Paired change,coagulation_thrombosis,-0.059493652144120203
+Exercise training,Paired change,coagulation_thrombosis,0.10276865996036411
+Exercise training,Paired change,coagulation_thrombosis,0.1073163100241555
+Exercise training,Paired change,coagulation_thrombosis,1.2702818811333518
+Exercise training,Paired change,lipid_handling,-0.0658925270127656
+Exercise training,Paired change,lipid_handling,0.0100043324048389
+Exercise training,Paired change,lipid_handling,0.019297524154481899
+Exercise training,Paired change,lipid_handling,0.057950963881956898
+Exercise training,Paired change,lipid_handling,0.15462693519199991
+Exercise training,Paired change,oxidative_stress,-1.6289243752085387
+Exercise training,Paired change,oxidative_stress,0.044883532280779598
+Exercise training,Paired change,oxidative_stress,0.1932417374604474
+Exercise training,Paired change,oxidative_stress,0.98250826690392323
+Exercise training,Paired change,oxidative_stress,5.2669474809925436
+Exercise training,Paired change,hypoxia_glycolysis,-1.0614123585968431
+Exercise training,Paired change,hypoxia_glycolysis,-0.31573328383714561
+Exercise training,Paired change,hypoxia_glycolysis,-0.19606588796168631
+Exercise training,Paired change,hypoxia_glycolysis,0.43657051481819659
+Exercise training,Paired change,hypoxia_glycolysis,3.115438614536802
+Peroneal artery,High grade 4-5,endothelial_activation,-0.2832433946603452
+Peroneal artery,High grade 4-5,endothelial_activation,0.18919063854154669
+Peroneal artery,High grade 4-5,endothelial_activation,0.30384275539398259
+Peroneal artery,High grade 4-5,endothelial_activation,0.34287022252376831
+Peroneal artery,High grade 4-5,endothelial_activation,0.4295313494507304
+Peroneal artery,High grade 4-5,endothelial_activation,0.62811842053784239
+Peroneal artery,High grade 4-5,endothelial_activation,0.70962116511838902
+Peroneal artery,Low grade 0-1,endothelial_activation,-0.886251591987399
+Peroneal artery,Low grade 0-1,endothelial_activation,-0.46501850547326928
+Peroneal artery,Low grade 0-1,endothelial_activation,-0.41865955525078868
+Peroneal artery,Low grade 0-1,endothelial_activation,-0.12558311784134549
+Peroneal artery,Low grade 0-1,endothelial_activation,-0.063779877217711195
+Peroneal artery,High grade 4-5,smooth_muscle_contractile,-1.911447857473948
+Peroneal artery,High grade 4-5,smooth_muscle_contractile,-0.77056660913726871
+Peroneal artery,High grade 4-5,smooth_muscle_contractile,-0.40645711123382838
+Peroneal artery,High grade 4-5,smooth_muscle_contractile,-0.25935719530735429
+Peroneal artery,High grade 4-5,smooth_muscle_contractile,-0.1384938605569736
+Peroneal artery,High grade 4-5,smooth_muscle_contractile,-0.069450949357708999
+Peroneal artery,High grade 4-5,smooth_muscle_contractile,0.0461860294076651
+Peroneal artery,Low grade 0-1,smooth_muscle_contractile,0.0815498775641878
+Peroneal artery,Low grade 0-1,smooth_muscle_contractile,0.65577109088732999
+Peroneal artery,Low grade 0-1,smooth_muscle_contractile,0.98201845798554099
+Peroneal artery,Low grade 0-1,smooth_muscle_contractile,1.3068759858863732
+Peroneal artery,Low grade 0-1,smooth_muscle_contractile,1.5967281978589638
+Peroneal artery,High grade 4-5,inflammation,-0.45421743867916442
+Peroneal artery,High grade 4-5,inflammation,-0.28355354664199511
+Peroneal artery,High grade 4-5,inflammation,0.031340671572302803
+Peroneal artery,High grade 4-5,inflammation,0.091378801228945206
+Peroneal artery,High grade 4-5,inflammation,0.15618955981054169
+Peroneal artery,High grade 4-5,inflammation,0.47499281339036392
+Peroneal artery,High grade 4-5,inflammation,0.76784393370981263
+Peroneal artery,Low grade 0-1,inflammation,-1.010833905340818
+Peroneal artery,Low grade 0-1,inflammation,-0.54854133533241844
+Peroneal artery,Low grade 0-1,inflammation,-0.54707755236572631
+Peroneal artery,Low grade 0-1,inflammation,-0.46843318549023161
+Peroneal artery,Low grade 0-1,inflammation,-0.1492280358399673
+Peroneal artery,High grade 4-5,extracellular_matrix,-0.59819373648978791
+Peroneal artery,High grade 4-5,extracellular_matrix,-0.066966255966682806
+Peroneal artery,High grade 4-5,extracellular_matrix,0.12794035199457901
+Peroneal artery,High grade 4-5,extracellular_matrix,0.14569676000558421
+Peroneal artery,High grade 4-5,extracellular_matrix,0.1639240720435646
+Peroneal artery,High grade 4-5,extracellular_matrix,0.68555364659080575
+Peroneal artery,High grade 4-5,extracellular_matrix,0.74696548841513399
+Peroneal artery,Low grade 0-1,extracellular_matrix,-0.28239160563064097
+Peroneal artery,Low grade 0-1,extracellular_matrix,-0.11568899867781469
+Peroneal artery,Low grade 0-1,extracellular_matrix,-0.070108523265679401
+Peroneal artery,Low grade 0-1,extracellular_matrix,0.1480760698994692
+Peroneal artery,Low grade 0-1,extracellular_matrix,0.37335279500777407
+Peroneal artery,High grade 4-5,coagulation_thrombosis,-0.3520626094959674
+Peroneal artery,High grade 4-5,coagulation_thrombosis,-0.30482641628427409
+Peroneal artery,High grade 4-5,coagulation_thrombosis,-0.28913711453467011
+Peroneal artery,High grade 4-5,coagulation_thrombosis,-0.2627011511873511
+Peroneal artery,High grade 4-5,coagulation_thrombosis,-0.25777049878410357
+Peroneal artery,High grade 4-5,coagulation_thrombosis,-0.16087107891417951
+Peroneal artery,High grade 4-5,coagulation_thrombosis,0.6573947230859607
+Peroneal artery,Low grade 0-1,coagulation_thrombosis,-0.38786122912271881
+Peroneal artery,Low grade 0-1,coagulation_thrombosis,-0.381407815292023
+Peroneal artery,Low grade 0-1,coagulation_thrombosis,-0.30136690470460059
+Peroneal artery,Low grade 0-1,coagulation_thrombosis,-0.13874267925343539
+Peroneal artery,Low grade 0-1,coagulation_thrombosis,0.38932536382562521
+Peroneal artery,High grade 4-5,lipid_handling,-0.81052088588901439
+Peroneal artery,High grade 4-5,lipid_handling,-0.52852187807237438
+Peroneal artery,High grade 4-5,lipid_handling,-0.26693432835241659
+Peroneal artery,High grade 4-5,lipid_handling,-0.076284594090153895
+Peroneal artery,High grade 4-5,lipid_handling,0.050791045434357203
+Peroneal artery,High grade 4-5,lipid_handling,0.56448587094984026
+Peroneal artery,High grade 4-5,lipid_handling,1.0490545986427693
+Peroneal artery,Low grade 0-1,lipid_handling,-0.90572524313450675
+Peroneal artery,Low grade 0-1,lipid_handling,-0.6862140075712454
+Peroneal artery,Low grade 0-1,lipid_handling,-0.48518060705036309
+Peroneal artery,Low grade 0-1,lipid_handling,-0.42445955465069668
+Peroneal artery,Low grade 0-1,lipid_handling,-0.15634752633703969
+Peroneal artery,High grade 4-5,oxidative_stress,-0.48471885268708759
+Peroneal artery,High grade 4-5,oxidative_stress,-0.29668573857491748
+Peroneal artery,High grade 4-5,oxidative_stress,-0.27863287369015949
+Peroneal artery,High grade 4-5,oxidative_stress,0.18625470155160059
+Peroneal artery,High grade 4-5,oxidative_stress,0.29031489435985869
+Peroneal artery,High grade 4-5,oxidative_stress,0.74205185620956304
+Peroneal artery,High grade 4-5,oxidative_stress,0.82914807319589923
+Peroneal artery,Low grade 0-1,oxidative_stress,-1.3928538222252445
+Peroneal artery,Low grade 0-1,oxidative_stress,-0.96408769968096442
+Peroneal artery,Low grade 0-1,oxidative_stress,-0.30186789083588161
+Peroneal artery,Low grade 0-1,oxidative_stress,0.15986478767063081
+Peroneal artery,Low grade 0-1,oxidative_stress,0.4057278004589438
+Peroneal artery,High grade 4-5,hypoxia_glycolysis,-0.88835733476092549
+Peroneal artery,High grade 4-5,hypoxia_glycolysis,-0.76283432302172616
+Peroneal artery,High grade 4-5,hypoxia_glycolysis,-0.71542684503235598
+Peroneal artery,High grade 4-5,hypoxia_glycolysis,0.0360040026527624
+Peroneal artery,High grade 4-5,hypoxia_glycolysis,0.065736132266635203
+Peroneal artery,High grade 4-5,hypoxia_glycolysis,0.32862981180823209
+Peroneal artery,High grade 4-5,hypoxia_glycolysis,1.0415265366117312
+Peroneal artery,Low grade 0-1,hypoxia_glycolysis,-0.7641077187418035
+Peroneal artery,Low grade 0-1,hypoxia_glycolysis,-0.40074298749995357
+Peroneal artery,Low grade 0-1,hypoxia_glycolysis,-0.13515454906658689
+Peroneal artery,Low grade 0-1,hypoxia_glycolysis,0.12407198323975881
+Peroneal artery,Low grade 0-1,hypoxia_glycolysis,1.5090163448546772
+Posterior tibial artery,High grade 4-5,endothelial_activation,-0.38598778946294038
+Posterior tibial artery,High grade 4-5,endothelial_activation,-0.0047034470070690003
+Posterior tibial artery,High grade 4-5,endothelial_activation,0.20892157199288361
+Posterior tibial artery,High grade 4-5,endothelial_activation,0.33157929661730912
+Posterior tibial artery,High grade 4-5,endothelial_activation,0.57167146898848331
+Posterior tibial artery,High grade 4-5,endothelial_activation,0.97295969914837421
+Posterior tibial artery,Low grade 0-1,endothelial_activation,-1.2630233633370609
+Posterior tibial artery,Low grade 0-1,endothelial_activation,-1.0038025558817942
+Posterior tibial artery,Low grade 0-1,endothelial_activation,-0.31288129035655837
+Posterior tibial artery,High grade 4-5,smooth_muscle_contractile,-1.2762087751798563
+Posterior tibial artery,High grade 4-5,smooth_muscle_contractile,-0.68615132224084507
+Posterior tibial artery,High grade 4-5,smooth_muscle_contractile,-0.2278715486723715
+Posterior tibial artery,High grade 4-5,smooth_muscle_contractile,0.13695529038259979
+Posterior tibial artery,High grade 4-5,smooth_muscle_contractile,0.61395512646098127
+Posterior tibial artery,High grade 4-5,smooth_muscle_contractile,0.97003889981232683
+Posterior tibial artery,Low grade 0-1,smooth_muscle_contractile,0.88282367442922882
+Posterior tibial artery,Low grade 0-1,smooth_muscle_contractile,1.223338981104084
+Posterior tibial artery,Low grade 0-1,smooth_muscle_contractile,1.6929703705980661
+Posterior tibial artery,High grade 4-5,inflammation,-0.42527117767783329
+Posterior tibial artery,High grade 4-5,inflammation,-0.35843031293764221
+Posterior tibial artery,High grade 4-5,inflammation,-0.19578478878539551
+Posterior tibial artery,High grade 4-5,inflammation,0.015337647103784701
+Posterior tibial artery,High grade 4-5,inflammation,0.59674637501793937
+Posterior tibial artery,High grade 4-5,inflammation,0.85123696878869426
+Posterior tibial artery,Low grade 0-1,inflammation,-1.2553975708989571
+Posterior tibial artery,Low grade 0-1,inflammation,-0.3133072746538742
+Posterior tibial artery,Low grade 0-1,inflammation,-0.1049649889133089
+Posterior tibial artery,High grade 4-5,extracellular_matrix,-1.0474645926668229
+Posterior tibial artery,High grade 4-5,extracellular_matrix,-0.5873743771560701
+Posterior tibial artery,High grade 4-5,extracellular_matrix,-0.50346446456133509
+Posterior tibial artery,High grade 4-5,extracellular_matrix,0.12488944265773889
+Posterior tibial artery,High grade 4-5,extracellular_matrix,0.1621256994356236
+Posterior tibial artery,High grade 4-5,extracellular_matrix,0.1903489367252211
+Posterior tibial artery,Low grade 0-1,extracellular_matrix,-1.4915707829049083
+Posterior tibial artery,Low grade 0-1,extracellular_matrix,-0.1837606142406806
+Posterior tibial artery,Low grade 0-1,extracellular_matrix,-0.1122741705721398
+Posterior tibial artery,High grade 4-5,coagulation_thrombosis,-0.53547632711488546
+Posterior tibial artery,High grade 4-5,coagulation_thrombosis,-0.35544665715632418
+Posterior tibial artery,High grade 4-5,coagulation_thrombosis,-0.24316815636274769
+Posterior tibial artery,High grade 4-5,coagulation_thrombosis,-0.21175560859059059
+Posterior tibial artery,High grade 4-5,coagulation_thrombosis,-0.16660071617577779
+Posterior tibial artery,High grade 4-5,coagulation_thrombosis,0.2243539412465794
+Posterior tibial artery,Low grade 0-1,coagulation_thrombosis,-0.0072230124139219002
+Posterior tibial artery,Low grade 0-1,coagulation_thrombosis,0.087679713987288604
+Posterior tibial artery,Low grade 0-1,coagulation_thrombosis,0.53685598516806465
+Posterior tibial artery,High grade 4-5,lipid_handling,-0.41111914592954391
+Posterior tibial artery,High grade 4-5,lipid_handling,-0.13150006438340911
+Posterior tibial artery,High grade 4-5,lipid_handling,0.00088972484876349996
+Posterior tibial artery,High grade 4-5,lipid_handling,0.11773063544796029
+Posterior tibial artery,High grade 4-5,lipid_handling,0.53945911043797823
+Posterior tibial artery,High grade 4-5,lipid_handling,0.54427981402223991
+Posterior tibial artery,Low grade 0-1,lipid_handling,-0.93976013685415682
+Posterior tibial artery,Low grade 0-1,lipid_handling,-0.91086144370740796
+Posterior tibial artery,Low grade 0-1,lipid_handling,-0.0088784886821820994
+Posterior tibial artery,High grade 4-5,oxidative_stress,-0.81465358076432393
+Posterior tibial artery,High grade 4-5,oxidative_stress,-0.59233705894169364
+Posterior tibial artery,High grade 4-5,oxidative_stress,-0.027577431630959898
+Posterior tibial artery,High grade 4-5,oxidative_stress,0.030185428521794001
+Posterior tibial artery,High grade 4-5,oxidative_stress,0.26318004622266361
+Posterior tibial artery,High grade 4-5,oxidative_stress,1.1433719904181929
+Posterior tibial artery,Low grade 0-1,oxidative_stress,-1.1660935122070948
+Posterior tibial artery,Low grade 0-1,oxidative_stress,-0.60997163700996593
+Posterior tibial artery,Low grade 0-1,oxidative_stress,-0.56417999448251011
+Posterior tibial artery,High grade 4-5,hypoxia_glycolysis,-0.81571826557034588
+Posterior tibial artery,High grade 4-5,hypoxia_glycolysis,-0.38135474122697149
+Posterior tibial artery,High grade 4-5,hypoxia_glycolysis,-0.26248590891365697
+Posterior tibial artery,High grade 4-5,hypoxia_glycolysis,-0.0483401716221116
+Posterior tibial artery,High grade 4-5,hypoxia_glycolysis,0.1168731819441903
+Posterior tibial artery,High grade 4-5,hypoxia_glycolysis,0.48215682562412449
+Posterior tibial artery,Low grade 0-1,hypoxia_glycolysis,-0.053754617921600502
+Posterior tibial artery,Low grade 0-1,hypoxia_glycolysis,0.014275286316222199
+Posterior tibial artery,Low grade 0-1,hypoxia_glycolysis,0.46879309348557491
+Title proxy 0092,High grade 4-5,endothelial_activation,-0.2081454536482335
+Title proxy 0092,High grade 4-5,endothelial_activation,0.18919063854154669
+Title proxy 0092,High grade 4-5,endothelial_activation,0.26094999094034071
+Title proxy 0092,High grade 4-5,endothelial_activation,0.60271881450550591
+Title proxy 0092,High grade 4-5,endothelial_activation,0.70962116511838902
+Title proxy 0092,Low grade 0-1,endothelial_activation,-1.4599636730537615
+Title proxy 0092,Low grade 0-1,endothelial_activation,-1.2630233633370609
+Title proxy 0092,Low grade 0-1,endothelial_activation,-0.94502707393459662
+Title proxy 0092,Low grade 0-1,endothelial_activation,-0.46501850547326928
+Title proxy 0092,High grade 4-5,smooth_muscle_contractile,-1.911447857473948
+Title proxy 0092,High grade 4-5,smooth_muscle_contractile,-0.97334624836968642
+Title proxy 0092,High grade 4-5,smooth_muscle_contractile,-0.77056660913726871
+Title proxy 0092,High grade 4-5,smooth_muscle_contractile,-0.49161015414541881
+Title proxy 0092,High grade 4-5,smooth_muscle_contractile,-0.26501509734322182
+Title proxy 0092,Low grade 0-1,smooth_muscle_contractile,0.65577109088732999
+Title proxy 0092,Low grade 0-1,smooth_muscle_contractile,0.92042198421542842
+Title proxy 0092,Low grade 0-1,smooth_muscle_contractile,1.2651074834952287
+Title proxy 0092,Low grade 0-1,smooth_muscle_contractile,1.6929703705980661
+Title proxy 0092,High grade 4-5,inflammation,-0.19291414486691691
+Title proxy 0092,High grade 4-5,inflammation,0.0064728946838359001
+Title proxy 0092,High grade 4-5,inflammation,0.091378801228945206
+Title proxy 0092,High grade 4-5,inflammation,0.094797285565495298
+Title proxy 0092,High grade 4-5,inflammation,0.47499281339036392
+Title proxy 0092,Low grade 0-1,inflammation,-1.5828129051684146
+Title proxy 0092,Low grade 0-1,inflammation,-1.2553975708989571
+Title proxy 0092,Low grade 0-1,inflammation,-0.66207058999734603
+Title proxy 0092,Low grade 0-1,inflammation,-0.1492280358399673
+Title proxy 0092,High grade 4-5,extracellular_matrix,-0.066966255966682806
+Title proxy 0092,High grade 4-5,extracellular_matrix,0.45882748255244887
+Title proxy 0092,High grade 4-5,extracellular_matrix,0.62740150445699705
+Title proxy 0092,High grade 4-5,extracellular_matrix,0.68555364659080575
+Title proxy 0092,High grade 4-5,extracellular_matrix,1.0135904460143763
+Title proxy 0092,Low grade 0-1,extracellular_matrix,-1.4915707829049083
+Title proxy 0092,Low grade 0-1,extracellular_matrix,-0.48360812802704778
+Title proxy 0092,Low grade 0-1,extracellular_matrix,-0.14972480645924766
+Title proxy 0092,Low grade 0-1,extracellular_matrix,-0.070108523265679401
+Title proxy 0092,High grade 4-5,coagulation_thrombosis,-0.73914510929509958
+Title proxy 0092,High grade 4-5,coagulation_thrombosis,-0.57692091125604372
+Title proxy 0092,High grade 4-5,coagulation_thrombosis,-0.34054200967863502
+Title proxy 0092,High grade 4-5,coagulation_thrombosis,-0.28913711453467011
+Title proxy 0092,High grade 4-5,coagulation_thrombosis,-0.25777049878410357
+Title proxy 0092,Low grade 0-1,coagulation_thrombosis,-0.3954028810369748
+Title proxy 0092,Low grade 0-1,coagulation_thrombosis,-0.13874267925343539
+Title proxy 0092,Low grade 0-1,coagulation_thrombosis,-0.10684359535865599
+Title proxy 0092,Low grade 0-1,coagulation_thrombosis,-0.0072230124139219002
+Title proxy 0092,High grade 4-5,lipid_handling,-0.52852187807237438
+Title proxy 0092,High grade 4-5,lipid_handling,-0.2749158933137627
+Title proxy 0092,High grade 4-5,lipid_handling,-0.13915700744961099
+Title proxy 0092,High grade 4-5,lipid_handling,0.67092717661344725
+Title proxy 0092,High grade 4-5,lipid_handling,1.0490545986427693
+Title proxy 0092,Low grade 0-1,lipid_handling,-1.3806277367207702
+Title proxy 0092,Low grade 0-1,lipid_handling,-0.93976013685415682
+Title proxy 0092,Low grade 0-1,lipid_handling,-0.90829334342095736
+Title proxy 0092,Low grade 0-1,lipid_handling,-0.15634752633703969
+Title proxy 0092,High grade 4-5,oxidative_stress,-0.60022940309820305
+Title proxy 0092,High grade 4-5,oxidative_stress,-0.29668573857491748
+Title proxy 0092,High grade 4-5,oxidative_stress,-0.10054321702575
+Title proxy 0092,High grade 4-5,oxidative_stress,0.086673574476027804
+Title proxy 0092,High grade 4-5,oxidative_stress,0.29031489435985869
+Title proxy 0092,Low grade 0-1,oxidative_stress,-0.7339807015214882
+Title proxy 0092,Low grade 0-1,oxidative_stress,-0.56417999448251011
+Title proxy 0092,Low grade 0-1,oxidative_stress,-0.3721510715886987
+Title proxy 0092,Low grade 0-1,oxidative_stress,0.4057278004589438
+Title proxy 0092,High grade 4-5,hypoxia_glycolysis,0.049467233701512597
+Title proxy 0092,High grade 4-5,hypoxia_glycolysis,0.32862981180823209
+Title proxy 0092,High grade 4-5,hypoxia_glycolysis,0.47494627489542041
+Title proxy 0092,High grade 4-5,hypoxia_glycolysis,0.88345960278715396
+Title proxy 0092,High grade 4-5,hypoxia_glycolysis,1.0415265366117312
+Title proxy 0092,Low grade 0-1,hypoxia_glycolysis,-0.40893116833170201
+Title proxy 0092,Low grade 0-1,hypoxia_glycolysis,-0.31888609016401281
+Title proxy 0092,Low grade 0-1,hypoxia_glycolysis,-0.13515454906658689
+Title proxy 0092,Low grade 0-1,hypoxia_glycolysis,0.014275286316222199
+Title proxy 0521,High grade 4-5,endothelial_activation,-0.31990327430846754
+Title proxy 0521,High grade 4-5,endothelial_activation,-0.10279038244688825
+Title proxy 0521,High grade 4-5,endothelial_activation,-0.013910232203788739
+Title proxy 0521,High grade 4-5,endothelial_activation,-0.0010960830023909001
+Title proxy 0521,High grade 4-5,endothelial_activation,0.1755904153823675
+Title proxy 0521,High grade 4-5,endothelial_activation,0.36876563493650893
+Title proxy 0521,High grade 4-5,endothelial_activation,0.37765698726297264
+Title proxy 0521,High grade 4-5,endothelial_activation,0.4295313494507304
+Title proxy 0521,High grade 4-5,endothelial_activation,0.45163653845562041
+Title proxy 0521,High grade 4-5,endothelial_activation,0.48650803906865808
+Title proxy 0521,High grade 4-5,endothelial_activation,0.57167146898848331
+Title proxy 0521,High grade 4-5,endothelial_activation,0.6559990008547002
+Title proxy 0521,High grade 4-5,endothelial_activation,0.74793171593767838
+Title proxy 0521,Low grade 0-1,endothelial_activation,-0.75664787660775801
+Title proxy 0521,Low grade 0-1,endothelial_activation,-0.31288129035655837
+Title proxy 0521,Low grade 0-1,endothelial_activation,-0.12558311784134549
+Title proxy 0521,Low grade 0-1,endothelial_activation,-0.063779877217711195
+Title proxy 0521,High grade 4-5,smooth_muscle_contractile,-1.7945354002648508
+Title proxy 0521,High grade 4-5,smooth_muscle_contractile,-0.98430224246134745
+Title proxy 0521,High grade 4-5,smooth_muscle_contractile,-0.53528190373773854
+Title proxy 0521,High grade 4-5,smooth_muscle_contractile,-0.33641365697893433
+Title proxy 0521,High grade 4-5,smooth_muscle_contractile,-0.32005553349218829
+Title proxy 0521,High grade 4-5,smooth_muscle_contractile,-0.31197169566430916
+Title proxy 0521,High grade 4-5,smooth_muscle_contractile,-0.25935719530735429
+Title proxy 0521,High grade 4-5,smooth_muscle_contractile,-0.2278715486723715
+Title proxy 0521,High grade 4-5,smooth_muscle_contractile,-0.069940281691461298
+Title proxy 0521,High grade 4-5,smooth_muscle_contractile,0.053486830083214622
+Title proxy 0521,High grade 4-5,smooth_muscle_contractile,0.16072069007084588
+Title proxy 0521,High grade 4-5,smooth_muscle_contractile,0.24383083436702432
+Title proxy 0521,High grade 4-5,smooth_muscle_contractile,0.54898637986214349
+Title proxy 0521,Low grade 0-1,smooth_muscle_contractile,0.0815498775641878
+Title proxy 0521,Low grade 0-1,smooth_muscle_contractile,0.88282367442922882
+Title proxy 0521,Low grade 0-1,smooth_muscle_contractile,1.3320118930752924
+Title proxy 0521,Low grade 0-1,smooth_muscle_contractile,1.5967281978589638
+Title proxy 0521,High grade 4-5,inflammation,-0.49966478949611226
+Title proxy 0521,High grade 4-5,inflammation,-0.42527117767783329
+Title proxy 0521,High grade 4-5,inflammation,-0.38257029758092992
+Title proxy 0521,High grade 4-5,inflammation,-0.28355354664199511
+Title proxy 0521,High grade 4-5,inflammation,-0.0095715313238170993
+Title proxy 0521,High grade 4-5,inflammation,0.070844447932798343
+Title proxy 0521,High grade 4-5,inflammation,0.12118451392215623
+Title proxy 0521,High grade 4-5,inflammation,0.14802918830661191
+Title proxy 0521,High grade 4-5,inflammation,0.15683406592991819
+Title proxy 0521,High grade 4-5,inflammation,0.39210165990187956
+Title proxy 0521,High grade 4-5,inflammation,0.61934512331912661
+Title proxy 0521,High grade 4-5,inflammation,0.86165306844487621
+Title proxy 0521,High grade 4-5,inflammation,1.1222353148488922
+Title proxy 0521,Low grade 0-1,inflammation,-0.64174516957134231
+Title proxy 0521,Low grade 0-1,inflammation,-0.54854133533241844
+Title proxy 0521,Low grade 0-1,inflammation,-0.54707755236572631
+Title proxy 0521,Low grade 0-1,inflammation,-0.1049649889133089
+Title proxy 0521,High grade 4-5,extracellular_matrix,-1.161318101963285
+Title proxy 0521,High grade 4-5,extracellular_matrix,-0.5873743771560701
+Title proxy 0521,High grade 4-5,extracellular_matrix,-0.53739310203379409
+Title proxy 0521,High grade 4-5,extracellular_matrix,-0.44020690700567811
+Title proxy 0521,High grade 4-5,extracellular_matrix,-0.39673678921482997
+Title proxy 0521,High grade 4-5,extracellular_matrix,-0.12123755986225031
+Title proxy 0521,High grade 4-5,extracellular_matrix,0.088252146261001155
+Title proxy 0521,High grade 4-5,extracellular_matrix,0.14569676000558421
+Title proxy 0521,High grade 4-5,extracellular_matrix,0.14646935389469445
+Title proxy 0521,High grade 4-5,extracellular_matrix,0.28559593237565928
+Title proxy 0521,High grade 4-5,extracellular_matrix,0.61978731525535791
+Title proxy 0521,High grade 4-5,extracellular_matrix,0.71770814235877212
+Title proxy 0521,High grade 4-5,extracellular_matrix,0.90173209995632686
+Title proxy 0521,Low grade 0-1,extracellular_matrix,-0.36959593985675437
+Title proxy 0521,Low grade 0-1,extracellular_matrix,-0.28239160563064097
+Title proxy 0521,Low grade 0-1,extracellular_matrix,-0.1122741705721398
+Title proxy 0521,Low grade 0-1,extracellular_matrix,0.1480760698994692
+Title proxy 0521,High grade 4-5,coagulation_thrombosis,-0.2737332080395406
+Title proxy 0521,High grade 4-5,coagulation_thrombosis,-0.2627011511873511
+Title proxy 0521,High grade 4-5,coagulation_thrombosis,-0.22807712630853899
+Title proxy 0521,High grade 4-5,coagulation_thrombosis,-0.22752156493134343
+Title proxy 0521,High grade 4-5,coagulation_thrombosis,-0.16660071617577779
+Title proxy 0521,High grade 4-5,coagulation_thrombosis,-0.15534406159571468
+Title proxy 0521,High grade 4-5,coagulation_thrombosis,-0.11662549806723679
+Title proxy 0521,High grade 4-5,coagulation_thrombosis,-0.060652647334866541
+Title proxy 0521,High grade 4-5,coagulation_thrombosis,0.069128373402179616
+Title proxy 0521,High grade 4-5,coagulation_thrombosis,0.12866398635523774
+Title proxy 0521,High grade 4-5,coagulation_thrombosis,0.20437189571092501
+Title proxy 0521,High grade 4-5,coagulation_thrombosis,0.2295637981010315
+Title proxy 0521,High grade 4-5,coagulation_thrombosis,0.41432709224069492
+Title proxy 0521,Low grade 0-1,coagulation_thrombosis,-0.53682862989013269
+Title proxy 0521,Low grade 0-1,coagulation_thrombosis,-0.38786122912271881
+Title proxy 0521,Low grade 0-1,coagulation_thrombosis,0.38932536382562521
+Title proxy 0521,Low grade 0-1,coagulation_thrombosis,0.53685598516806465
+Title proxy 0521,High grade 4-5,lipid_handling,-0.46317773403742274
+Title proxy 0521,High grade 4-5,lipid_handling,-0.26236646956706888
+Title proxy 0521,High grade 4-5,lipid_handling,-0.18784850343888485
+Title proxy 0521,High grade 4-5,lipid_handling,-0.13150006438340911
+Title proxy 0521,High grade 4-5,lipid_handling,-0.10199668890640499
+Title proxy 0521,High grade 4-5,lipid_handling,-0.09850584717333695
+Title proxy 0521,High grade 4-5,lipid_handling,-0.076284594090153895
+Title proxy 0521,High grade 4-5,lipid_handling,0.0045933332459445475
+Title proxy 0521,High grade 4-5,lipid_handling,0.20875889520922411
+Title proxy 0521,High grade 4-5,lipid_handling,0.29047123385533141
+Title proxy 0521,High grade 4-5,lipid_handling,0.36252803559870672
+Title proxy 0521,High grade 4-5,lipid_handling,0.41056064095204664
+Title proxy 0521,High grade 4-5,lipid_handling,0.99942663316803859
+Title proxy 0521,Low grade 0-1,lipid_handling,-0.6862140075712454
+Title proxy 0521,Low grade 0-1,lipid_handling,-0.47917063924874781
+Title proxy 0521,Low grade 0-1,lipid_handling,-0.42445955465069668
+Title proxy 0521,Low grade 0-1,lipid_handling,-0.0088784886821820994
+Title proxy 0521,High grade 4-5,oxidative_stress,-0.71658484286546609
+Title proxy 0521,High grade 4-5,oxidative_stress,-0.50662585254137771
+Title proxy 0521,High grade 4-5,oxidative_stress,-0.19236998096692398
+Title proxy 0521,High grade 4-5,oxidative_stress,-0.180388303880057
+Title proxy 0521,High grade 4-5,oxidative_stress,-0.027577431630959898
+Title proxy 0521,High grade 4-5,oxidative_stress,0.0022117485652251995
+Title proxy 0521,High grade 4-5,oxidative_stress,0.058233545958620896
+Title proxy 0521,High grade 4-5,oxidative_stress,0.32840546560927125
+Title proxy 0521,High grade 4-5,oxidative_stress,0.34642171099879271
+Title proxy 0521,High grade 4-5,oxidative_stress,0.65697689933876358
+Title proxy 0521,High grade 4-5,oxidative_stress,0.66242760384563415
+Title proxy 0521,High grade 4-5,oxidative_stress,0.74205185620956304
+Title proxy 0521,High grade 4-5,oxidative_stress,1.1448162176344703
+Title proxy 0521,Low grade 0-1,oxidative_stress,-1.3928538222252445
+Title proxy 0521,Low grade 0-1,oxidative_stress,-0.96408769968096442
+Title proxy 0521,Low grade 0-1,oxidative_stress,-0.60997163700996593
+Title proxy 0521,Low grade 0-1,oxidative_stress,-0.11274135367731199
+Title proxy 0521,High grade 4-5,hypoxia_glycolysis,-0.76369112829349917
+Title proxy 0521,High grade 4-5,hypoxia_glycolysis,-0.72590654620298034
+Title proxy 0521,High grade 4-5,hypoxia_glycolysis,-0.71542684503235598
+Title proxy 0521,High grade 4-5,hypoxia_glycolysis,-0.70303064985501429
+Title proxy 0521,High grade 4-5,hypoxia_glycolysis,-0.5695690333955481
+Title proxy 0521,High grade 4-5,hypoxia_glycolysis,-0.31725768026337231
+Title proxy 0521,High grade 4-5,hypoxia_glycolysis,-0.0174682339633975
+Title proxy 0521,High grade 4-5,hypoxia_glycolysis,0.11105830220101535
+Title proxy 0521,High grade 4-5,hypoxia_glycolysis,0.1168731819441903
+Title proxy 0521,High grade 4-5,hypoxia_glycolysis,0.14903138753956499
+Title proxy 0521,High grade 4-5,hypoxia_glycolysis,0.59591912548494308
+Title proxy 0521,High grade 4-5,hypoxia_glycolysis,0.60009723881840116
+Title proxy 0521,High grade 4-5,hypoxia_glycolysis,0.72932351399827045
+Title proxy 0521,Low grade 0-1,hypoxia_glycolysis,-0.40074298749995357
+Title proxy 0521,Low grade 0-1,hypoxia_glycolysis,0.12407198323975881
+Title proxy 0521,Low grade 0-1,hypoxia_glycolysis,0.46879309348557491
+Title proxy 0521,Low grade 0-1,hypoxia_glycolysis,0.71922419514214808

@@ -1,0 +1,25 @@
+{
+  "status": "PASS_OFFLINE_RELOCATION_IMPORTS_AND_SELECTED_PLOT_REDRAWS",
+  "image_checks": {
+    "S2_pixel_identical": true,
+    "S2_actual_sha256": "e43404ee2770a2897e00be3f378aaa716f663e2d2438d56472d9eb2dfa3fb36e",
+    "S2_expected_sha256": "e43404ee2770a2897e00be3f378aaa716f663e2d2438d56472d9eb2dfa3fb36e",
+    "S8_page1_pixel_identical": true,
+    "S8_page1_sha256": "291a45605ac579cf497d109444eb147bd0711aa8adca4b64e020665e46f9f60d",
+    "S8_page2_pixel_identical": true,
+    "S8_page2_sha256": "bf866e8a1360cf2ff175fad89f1156473946277c9767cd34866b2f2ffd09ef77"
+  },
+  "source_data_network_acquisition_attempted": false,
+  "full_numerical_rebuild_executed_in_this_task": false,
+  "all_figures_redrawn": false,
+  "candidate_bytes_unchanged_by_validation": true,
+  "no_original_linked_anchor_in_candidate": true,
+  "software_licence_granted": true,
+  "repository_published": "Service-side evidence is stored separately after publication.",
+  "figure_environment": {
+    "python": "3.11.9",
+    "numpy": "2.4.6",
+    "pandas": "2.3.3"
+  },
+  "scope": "Selected plot redraw checks on the byte-identical numeric inputs and figure scripts carried into v1.0.0."
+}

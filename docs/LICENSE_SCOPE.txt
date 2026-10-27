@@ -1,0 +1,15 @@
+LICENCE SCOPE FOR THIS SOFTWARE RELEASE
+
+The original Python analysis/acquisition/verification/plotting code and its
+original source documentation are licensed under LICENSE (MIT). This grant
+was explicitly authorized by the authors on 27 October 2026.
+
+Third-party dependencies retain their own licences. Public GEO accessions,
+original data and platform annotation rights/conditions are not replaced by
+this grant. Included numerical tables are provenance-documented research
+outputs; the MIT software grant is not a blanket relicense of their underlying
+third-party data. No CC0 grant or new participant-consent determination is made.
+
+No original source-linked data or historical oof_subject_errors.csv anchor is
+included. Do not append locally rebuilt source-linked files to a public release
+without separately assessing applicable source rights and privacy conditions.

@@ -1,0 +1,332 @@
+{
+  "status": "LOCAL_REVIEW_ADDENDUM_NOT_UPLOADED_OR_PUBLISHED",
+  "source_files": [
+    {
+      "file": "corrected_subject_module_directions.csv",
+      "sha256": "5c8a64f3f85ad38772fedfa92711a9e23fd0feffb93ce6eb1258263b49ff3fa0"
+    },
+    {
+      "file": "corrected_group_module_directions.csv",
+      "sha256": "91455207cfaf3b65211336370e833525864ff152c01df068cccb67c2254c2e0f"
+    },
+    {
+      "file": "external_GSE281841_sample_audit.csv",
+      "sha256": "a1f32bb66083fe74aaa864953353252332f06dd8c5974252a739d091320d4223"
+    },
+    {
+      "file": "external_GSE281841_restricted_sensitivities.csv",
+      "sha256": "58f0319940c6fd249d1053a1d5493e81ec268fb7f366b4882ecf122eb21cffc7"
+    },
+    {
+      "file": "external_GSE281841_stratum_overlap_audit.csv",
+      "sha256": "7c17ac2d3cd04d71ca930003c9c3f04b46ab9a8b5ebf9ecdab0833c99f87faf2"
+    }
+  ],
+  "point_file": "small_group_point_values.csv",
+  "point_file_sha256": "6266c505d2cc8f82658ced7d1cd40f198e7094dc0473f2874ded26b6d08ec817",
+  "rows": 416,
+  "columns": [
+    "context",
+    "group",
+    "module",
+    "value"
+  ],
+  "units_and_counts": {
+    "Exercise training": "5 paired participants from the 14-pair GSE113873 cohort",
+    "Peroneal artery": "7 high-grade and 5 low-grade literal source record IDs within the stated restriction",
+    "Posterior tibial artery": "6 high-grade and 3 low-grade literal source record IDs within the stated restriction",
+    "Title proxy 0092": "5 high-grade and 4 low-grade literal source record IDs within the stated restriction",
+    "Title proxy 0521": "13 high-grade and 4 low-grade literal source record IDs within the stated restriction"
+  },
+  "transformations": {
+    "exercise": "Existing follow-up minus baseline module score; gene-wise full-series mean/SD (population SD) over the source muscle expression series, then median available standardized module genes. No predictive training transform is substituted.",
+    "external": "Existing gene-wise full-series mean/SD before retained-record exclusions, then median module genes per sample. Retained samples are selected within each stated restriction, and their existing scores averaged within literal source record ID and grade group. This is the original stratum-specific averaging, not the all-artery patient mean."
+  },
+  "export_scope": "Values are sorted independently within each context, group and module. No point IDs, original subject/sample/source IDs, ages, or cross-module linkage fields are exported. This is not a formal de-identification certification.",
+  "interpretation": "All displays are post hoc descriptive reporting additions. Source record identity does not establish distinct participants. Restrictions overlap and their counts must not be summed. No model refitting, new training, new interval estimates, significance tests, biological validation or changed manuscript conclusions.",
+  "coverage": "Includes the five-pair exercise group and all four existing estimated external restrictions with a group below six. Source artery categories for which no contrast was estimated are not converted into new analyses.",
+  "numerical_checks": [
+    {
+      "context": "Exercise training",
+      "module": "endothelial_activation",
+      "n": 5,
+      "mean_error_vs_existing_S5_input": 5.551115123125783e-17,
+      "difference_error_vs_existing_S7_input": 0.0
+    },
+    {
+      "context": "Exercise training",
+      "module": "smooth_muscle_contractile",
+      "n": 5,
+      "mean_error_vs_existing_S5_input": 5.551115123125783e-17,
+      "difference_error_vs_existing_S7_input": 0.0
+    },
+    {
+      "context": "Exercise training",
+      "module": "inflammation",
+      "n": 5,
+      "mean_error_vs_existing_S5_input": 1.1102230246251565e-16,
+      "difference_error_vs_existing_S7_input": 1.1102230246251565e-16
+    },
+    {
+      "context": "Exercise training",
+      "module": "extracellular_matrix",
+      "n": 5,
+      "mean_error_vs_existing_S5_input": 0.0,
+      "difference_error_vs_existing_S7_input": 0.0
+    },
+    {
+      "context": "Exercise training",
+      "module": "coagulation_thrombosis",
+      "n": 5,
+      "mean_error_vs_existing_S5_input": 0.0,
+      "difference_error_vs_existing_S7_input": 5.551115123125783e-17
+    },
+    {
+      "context": "Exercise training",
+      "module": "lipid_handling",
+      "n": 5,
+      "mean_error_vs_existing_S5_input": 0.0,
+      "difference_error_vs_existing_S7_input": 0.0
+    },
+    {
+      "context": "Exercise training",
+      "module": "oxidative_stress",
+      "n": 5,
+      "mean_error_vs_existing_S5_input": 0.0,
+      "difference_error_vs_existing_S7_input": 2.220446049250313e-16
+    },
+    {
+      "context": "Exercise training",
+      "module": "hypoxia_glycolysis",
+      "n": 5,
+      "mean_error_vs_existing_S5_input": 5.551115123125783e-17,
+      "difference_error_vs_existing_S7_input": 0.0
+    },
+    {
+      "context": "Peroneal artery",
+      "module": "endothelial_activation",
+      "n_high_source_record_IDs": 7,
+      "n_low_source_record_IDs": 5,
+      "difference_error_vs_existing_external_input": 2.220446049250313e-16
+    },
+    {
+      "context": "Peroneal artery",
+      "module": "smooth_muscle_contractile",
+      "n_high_source_record_IDs": 7,
+      "n_low_source_record_IDs": 5,
+      "difference_error_vs_existing_external_input": 0.0
+    },
+    {
+      "context": "Peroneal artery",
+      "module": "inflammation",
+      "n_high_source_record_IDs": 7,
+      "n_low_source_record_IDs": 5,
+      "difference_error_vs_existing_external_input": 0.0
+    },
+    {
+      "context": "Peroneal artery",
+      "module": "extracellular_matrix",
+      "n_high_source_record_IDs": 7,
+      "n_low_source_record_IDs": 5,
+      "difference_error_vs_existing_external_input": 1.1102230246251565e-16
+    },
+    {
+      "context": "Peroneal artery",
+      "module": "coagulation_thrombosis",
+      "n_high_source_record_IDs": 7,
+      "n_low_source_record_IDs": 5,
+      "difference_error_vs_existing_external_input": 4.85722573273506e-17
+    },
+    {
+      "context": "Peroneal artery",
+      "module": "lipid_handling",
+      "n_high_source_record_IDs": 7,
+      "n_low_source_record_IDs": 5,
+      "difference_error_vs_existing_external_input": 0.0
+    },
+    {
+      "context": "Peroneal artery",
+      "module": "oxidative_stress",
+      "n_high_source_record_IDs": 7,
+      "n_low_source_record_IDs": 5,
+      "difference_error_vs_existing_external_input": 0.0
+    },
+    {
+      "context": "Peroneal artery",
+      "module": "hypoxia_glycolysis",
+      "n_high_source_record_IDs": 7,
+      "n_low_source_record_IDs": 5,
+      "difference_error_vs_existing_external_input": 5.551115123125783e-17
+    },
+    {
+      "context": "Posterior tibial artery",
+      "module": "endothelial_activation",
+      "n_high_source_record_IDs": 6,
+      "n_low_source_record_IDs": 3,
+      "difference_error_vs_existing_external_input": 0.0
+    },
+    {
+      "context": "Posterior tibial artery",
+      "module": "smooth_muscle_contractile",
+      "n_high_source_record_IDs": 6,
+      "n_low_source_record_IDs": 3,
+      "difference_error_vs_existing_external_input": 0.0
+    },
+    {
+      "context": "Posterior tibial artery",
+      "module": "inflammation",
+      "n_high_source_record_IDs": 6,
+      "n_low_source_record_IDs": 3,
+      "difference_error_vs_existing_external_input": 1.1102230246251565e-16
+    },
+    {
+      "context": "Posterior tibial artery",
+      "module": "extracellular_matrix",
+      "n_high_source_record_IDs": 6,
+      "n_low_source_record_IDs": 3,
+      "difference_error_vs_existing_external_input": 0.0
+    },
+    {
+      "context": "Posterior tibial artery",
+      "module": "coagulation_thrombosis",
+      "n_high_source_record_IDs": 6,
+      "n_low_source_record_IDs": 3,
+      "difference_error_vs_existing_external_input": 1.1102230246251565e-16
+    },
+    {
+      "context": "Posterior tibial artery",
+      "module": "lipid_handling",
+      "n_high_source_record_IDs": 6,
+      "n_low_source_record_IDs": 3,
+      "difference_error_vs_existing_external_input": 1.1102230246251565e-16
+    },
+    {
+      "context": "Posterior tibial artery",
+      "module": "oxidative_stress",
+      "n_high_source_record_IDs": 6,
+      "n_low_source_record_IDs": 3,
+      "difference_error_vs_existing_external_input": 0.0
+    },
+    {
+      "context": "Posterior tibial artery",
+      "module": "hypoxia_glycolysis",
+      "n_high_source_record_IDs": 6,
+      "n_low_source_record_IDs": 3,
+      "difference_error_vs_existing_external_input": 0.0
+    },
+    {
+      "context": "Title proxy 0092",
+      "module": "endothelial_activation",
+      "n_high_source_record_IDs": 5,
+      "n_low_source_record_IDs": 4,
+      "difference_error_vs_existing_external_input": 4.440892098500626e-16
+    },
+    {
+      "context": "Title proxy 0092",
+      "module": "smooth_muscle_contractile",
+      "n_high_source_record_IDs": 5,
+      "n_low_source_record_IDs": 4,
+      "difference_error_vs_existing_external_input": 0.0
+    },
+    {
+      "context": "Title proxy 0092",
+      "module": "inflammation",
+      "n_high_source_record_IDs": 5,
+      "n_low_source_record_IDs": 4,
+      "difference_error_vs_existing_external_input": 0.0
+    },
+    {
+      "context": "Title proxy 0092",
+      "module": "extracellular_matrix",
+      "n_high_source_record_IDs": 5,
+      "n_low_source_record_IDs": 4,
+      "difference_error_vs_existing_external_input": 0.0
+    },
+    {
+      "context": "Title proxy 0092",
+      "module": "coagulation_thrombosis",
+      "n_high_source_record_IDs": 5,
+      "n_low_source_record_IDs": 4,
+      "difference_error_vs_existing_external_input": 1.1102230246251565e-16
+    },
+    {
+      "context": "Title proxy 0092",
+      "module": "lipid_handling",
+      "n_high_source_record_IDs": 5,
+      "n_low_source_record_IDs": 4,
+      "difference_error_vs_existing_external_input": 0.0
+    },
+    {
+      "context": "Title proxy 0092",
+      "module": "oxidative_stress",
+      "n_high_source_record_IDs": 5,
+      "n_low_source_record_IDs": 4,
+      "difference_error_vs_existing_external_input": 0.0
+    },
+    {
+      "context": "Title proxy 0092",
+      "module": "hypoxia_glycolysis",
+      "n_high_source_record_IDs": 5,
+      "n_low_source_record_IDs": 4,
+      "difference_error_vs_existing_external_input": 0.0
+    },
+    {
+      "context": "Title proxy 0521",
+      "module": "endothelial_activation",
+      "n_high_source_record_IDs": 13,
+      "n_low_source_record_IDs": 4,
+      "difference_error_vs_existing_external_input": 0.0
+    },
+    {
+      "context": "Title proxy 0521",
+      "module": "smooth_muscle_contractile",
+      "n_high_source_record_IDs": 13,
+      "n_low_source_record_IDs": 4,
+      "difference_error_vs_existing_external_input": 0.0
+    },
+    {
+      "context": "Title proxy 0521",
+      "module": "inflammation",
+      "n_high_source_record_IDs": 13,
+      "n_low_source_record_IDs": 4,
+      "difference_error_vs_existing_external_input": 1.1102230246251565e-16
+    },
+    {
+      "context": "Title proxy 0521",
+      "module": "extracellular_matrix",
+      "n_high_source_record_IDs": 13,
+      "n_low_source_record_IDs": 4,
+      "difference_error_vs_existing_external_input": 2.7755575615628914e-17
+    },
+    {
+      "context": "Title proxy 0521",
+      "module": "coagulation_thrombosis",
+      "n_high_source_record_IDs": 13,
+      "n_low_source_record_IDs": 4,
+      "difference_error_vs_existing_external_input": 6.938893903907228e-17
+    },
+    {
+      "context": "Title proxy 0521",
+      "module": "lipid_handling",
+      "n_high_source_record_IDs": 13,
+      "n_low_source_record_IDs": 4,
+      "difference_error_vs_existing_external_input": 0.0
+    },
+    {
+      "context": "Title proxy 0521",
+      "module": "oxidative_stress",
+      "n_high_source_record_IDs": 13,
+      "n_low_source_record_IDs": 4,
+      "difference_error_vs_existing_external_input": 0.0
+    },
+    {
+      "context": "Title proxy 0521",
+      "module": "hypoxia_glycolysis",
+      "n_high_source_record_IDs": 13,
+      "n_low_source_record_IDs": 4,
+      "difference_error_vs_existing_external_input": 0.0
+    }
+  ],
+  "all_errors_below": 1e-12,
+  "roundtrip_values_bitwise_equal": true
+}

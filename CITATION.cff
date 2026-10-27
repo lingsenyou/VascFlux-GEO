@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this versioned analysis/figure code. Third-party GEO rights and source-derived data conditions are described separately in README.txt."
+type: software
+title: "VascFlux-GEO analysis and figure code"
+version: "1.0.0"
+date-released: 2026-10-27
+url: "https://github.com/lingsenyou/VascFlux-GEO"
+repository-code: "https://github.com/lingsenyou/VascFlux-GEO"
+license: MIT
+authors:
+  - family-names: You
+    given-names: Lingsen
+  - family-names: Peng
+    given-names: Zisu
+  - family-names: Guo
+    given-names: Yujun
+  - family-names: Shen
+    given-names: Li
+  - family-names: Ge
+    given-names: Junbo

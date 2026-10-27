@@ -1,0 +1,35 @@
+{
+  "status": "PASS_COORDINATE_ROUNDTRIP_AND_PIXEL_IDENTITY",
+  "source_relative_path": "reproducibility/results/oof_subject_errors.csv",
+  "source_sha256": "9c830103ffba249fe026680fee754f733dc81df87e0f4bee98935cde0e9619e5",
+  "source_rows": 688,
+  "selected_rows": 576,
+  "coordinate_columns": [
+    "followup_absolute_error",
+    "implied_change_absolute_error",
+    "fixed_change_prediction",
+    "implied_change_prediction"
+  ],
+  "coordinate_sha256": "b6b024052d8ac3b225ada637c9d9b14ee040f94fc4585c1cd9eeebc810127e37",
+  "serialized_coordinate_values_bitwise_equal": true,
+  "s2c_max_absolute_residual_difference": 2.220446049250313e-16,
+  "s2d_max_prediction_difference": 0.0023220995754172913,
+  "original_and_patched_png_pixel_identical": true,
+  "formulas": {
+    "baseline": "observed_followup_level - observed_delta",
+    "followup_absolute_error": "abs(observed_followup_level - direct_followup_level_prediction)",
+    "implied_change_absolute_error": "abs(observed_delta - (direct_followup_level_prediction - baseline))",
+    "fixed_change_prediction": "delta_ridge_prediction",
+    "implied_change_prediction": "direct_followup_level_prediction - baseline"
+  },
+  "privacy_scope": "Only four numeric plot coordinates exported, preserving selected source row order. No subject/sample/treatment/module/row identifier exported. This is not a formal de-identification certificate.",
+  "reproduction_scope": "Repairs redraw of S2C/D from fixed historical results; does not regenerate the historical fitting anchor or establish independent numerical/biological validation.",
+  "publication_status": "PREPARED_FOR_AUTHORIZED_PUBLIC_CODE_RELEASE_v1.0.0",
+  "software_license": "Original code licensed under MIT as authorized on 27 October 2026; GEO rights are separate.",
+  "repository_access": "https://github.com/lingsenyou/VascFlux-GEO; service-side availability is verified separately.",
+  "validation_environment": {
+    "python": "3.11.9",
+    "numpy": "2.4.6",
+    "pandas": "2.3.3"
+  }
+}
